@@ -1,7 +1,9 @@
-## Hi! I'm Yana
-## New Python developer
+<h1 align="center">Hi! I'm Yana</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python developer</h3>
 
-## :hammer_and_wrench: Languages and Tools :
+<h3 align="center">Languages and Tools:
+  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-plain-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -16,13 +18,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div></h3>
+
 
 ## :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yalange&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalange)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
